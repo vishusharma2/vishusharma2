@@ -1,4 +1,3 @@
-@@ -0,0 +1,24 @@
 # 💫 About Me:
 Full stack web developer | Student of Computer Science and engineering at Greater Noida Institute of Technology (GNIOT) | Member of GDG | Experienced in python programming. Currently working on machine learning projects.
 
