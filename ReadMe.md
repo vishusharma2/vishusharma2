@@ -199,17 +199,7 @@
 
 </div>
 
----
 
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=vishusharma2&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Contributed Repo"/>
-
-</div>
-
----
 
 <div align="center">
 
