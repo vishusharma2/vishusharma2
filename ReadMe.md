@@ -128,7 +128,7 @@
 <div align="center">
 
 <a href="https://github.com/vishusharma2/CodeView-with-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishusharma2&repo=CodeView-with-AI&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vishusharma2&repo=CodeView-with-AI&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117" />
 </a>
 
 <br/><br/>
@@ -159,13 +159,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishusharma2&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=6C63FF&title_color=6C63FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishusharma2&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=6C63FF&title_color=6C63FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=vishusharma2&theme=radical&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6347&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=vishusharma2&theme=radical&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6347&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishusharma2&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6C63FF&text_color=FFFFFF&layout=donut-vertical&langs_count=8" alt="Top Languages"/>
+<img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishusharma2&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6C63FF&text_color=FFFFFF&layout=donut-vertical&langs_count=8" alt="Top Languages"/>
 
 </div>
 
