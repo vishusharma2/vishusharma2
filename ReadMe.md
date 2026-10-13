@@ -1,152 +1,349 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vishu%20Sharma&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+<!-- ============================================================ -->
+<!-- 🌌 HERO BANNER & HEADER                                      -->
+<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F5FF,25:7928CA,75:FF0080,100:0d1117&height=240&section=header&text=Vishu%20Sharma&fontSize=70&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=%E2%9A%A1%20Full-Stack%20Architect%20%C2%B7%20AI/ML%20Engineer%20%C2%B7%20Creative%20Technologist%20%E2%9A%A1&descAlignY=58&descSize=19" width="100%"/>
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+%40+GNIOT%2C+Greater+Noida;MERN+Stack+Developer;AI+%26+Machine+Learning+Explorer;Google+Developer+Groups+Member;Open+Source+Contributor;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<!-- Dynamic Animated Typing SVG -->
+<a href="https://github.com/vishusharma2">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=750&lines=🚀+Full-Stack+Architect+%7C+MERN+%26+Next.js+Specialist;🧠+AI+%26+Deep+Learning+Explorer+%7C+Computer+Vision;💻+Creator+of+WearVerse+AI+%26+CodeView+Live+IDE;⚡+Real-Time+Systems+%26+WebRTC+Enthusiast;🌐+Google+Developer+Groups+(GDG)+Member;☕+Turning+Complex+Logic+into+Elegant+Code" alt="Typing SVG" />
+</a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=vishusharma2&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/vishusharma2?tab=followers"><img src="https://img.shields.io/github/followers/vishusharma2?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="Followers"/></a>
+<!-- ============================================================ -->
+<!-- 📡 LIVE TELEMETRY & STATUS PILLS                             -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishusharma2&label=Profile%20Views&color=7928CA&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/vishusharma2?tab=followers">
+    <img src="https://img.shields.io/github/followers/vishusharma2?label=Followers&style=for-the-badge&color=00F5FF&labelColor=0d1117" alt="Followers"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-00F5FF?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117" alt="Status"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Greater_Noida%2C_India-FF0080?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location"/>
+</p>
 
 </div>
 
 ---
 
-<!-- Snake Animation -->
+<!-- ============================================================ -->
+<!-- 🖥️ DEVELOPER TERMINAL / HUD SPECIFICATIONS                   -->
+<!-- ============================================================ -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishusharma2/vishusharma2/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishusharma2/vishusharma2/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vishusharma2/vishusharma2/output/github-snake-dark.svg" />
-</picture>
+  <img src="https://img.shields.io/badge/TERMINAL-vishu%40quantum--node%3A~-6C63FF?style=flat-square&logo=gnubash&logoColor=white" alt="Terminal Header"/>
+</div>
+
+```bash
+╭─ ⚡ vishu@quantum-node ~ [main]
+╰─$ neofetch --profile vishu-sharma
+
+         /\_/\           OS: Arch Linux x86_64 / macOS Darwin
+        ( o.o )          Host: Vishu Sharma (Full-Stack & AI Engineer)
+         > ^ <           Kernel: B.Tech CSE @ GNIOT (Greater Noida)
+                         Affiliation: Google Developer Groups (GDG) Member
+                         Uptime: Continuous Learning & Building
+                         Shell: zsh 5.9 (MERN • Python • PyTorch • WebRTC)
+                         Editor: VS Code & Neovim
+                         Active Quests:
+                         ├── 👗 WearVerse (AI Virtual Try-On for E-Commerce)
+                         └── 💻 CodeView with AI (Live Collaborative IDE + Video)
+                         Core Drive: Building Scalable, Intelligent & High-Performance Software
+                         Status: 🟢 Ready to Innovate & Collaborate
+```
+
+---
+
+<!-- ============================================================ -->
+<!-- 🐍 CONTRIBUTION SNAKE GAME                                   -->
+<!-- ============================================================ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishusharma2/vishusharma2/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishusharma2/vishusharma2/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/vishusharma2/vishusharma2/output/github-snake-dark.svg" width="95%"/>
+  </picture>
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+<!-- ============================================================ -->
+<!-- ✨ ABOUT ME & SYSTEM DOSSIER                                 -->
+<!-- ============================================================ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> &nbsp;Dossier // Who Am I?
 
-<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding Hologram" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<br/>
+Hey there! 👋 I am **Vishu Sharma**, a software engineer and creator passionate about crafting full-stack architectures, real-time distributed applications, and cutting-edge computer vision systems.
 
-🎓 &nbsp;**B.Tech in Computer Science & Engineering** @ GNIOT, Greater Noida
-
-🌍 &nbsp;**Google Developer Groups (GDG)** Member
-
-💼 &nbsp;Currently building **Code View** — a collaborative code editor with real-time video calls (Replit-inspired)
-
-🧪 &nbsp;Working on **Virtual Try-On AI** for E-commerce using computer vision
-
-<br/>
-
-🔥 &nbsp;**Currently Learning:**
-- 🧠 Deep Learning & Neural Networks
-- ⚛️ Advanced React & MERN Stack
-- 🤖 AI-powered Web Applications
-- ☁️ Cloud Architecture (AWS & GCP)
-
-<br/>
-
-🏅 &nbsp;**Certifications:**
-- <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" /> &nbsp; Amazon Web Services — S3
-- <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" /> &nbsp; Google Cloud Challenge Labs
-- <img src="https://img.shields.io/badge/Meta-0668E1?style=flat&logo=meta&logoColor=white" /> &nbsp; Meta Frontend Development
-
-<br/>
-
-💡 &nbsp;**Interests:** Full-Stack Development · AI in AR/VR · Deep Learning · Open Source
-
-⚡ &nbsp;**Fun fact:** I debug with `console.log` and I'm not ashamed 😄
+- 🎓 **Undergraduate**: B.Tech in **Computer Science & Engineering** @ *GNIOT, Greater Noida*
+- 🌐 **Tech Community**: Active member of **Google Developer Groups (GDG)**
+- 🚀 **Flagship Build #1**: **WearVerse** — AI-powered Virtual Try-On system using Computer Vision & Deep Learning
+- 💻 **Flagship Build #2**: **CodeView with AI** — Real-time collaborative code editor with live WebRTC video & AI pairing
+- 🔭 **Currently Researching**: Multi-Modal Neural Networks, Computer Vision in AR/VR, and Scalable Cloud Microservices
+- ⚡ **Engineering Mantra**: *"First make it work, then make it right, then make it fast."*
+- 😄 **Fun Fact**: I speak fluent JavaScript, Python, and Sarcasm. And yes, my code runs flawlessly on the first try... in another multiverse! ☕
 
 <br clear="both"/>
 
 ---
 
-## 🤝 Connect With Me
+<!-- ============================================================ -->
+<!-- 🚀 FEATURED FLAGSHIP PROJECTS                                -->
+<!-- ============================================================ -->
+## 🚀 Featured Flagship Projects
 
 <div align="center">
 
-<a href="https://linkedin.com/in/vis-sha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://instagram.com/_vishu_sharma___" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
-<a href="https://discord.gg/vishusharma_" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
-<a href="https://x.com/VishuSh18399441" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>&nbsp;
-<a href="mailto:vishu.sharma90861@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### 👗 WearVerse — AI Virtual Try-On
+> *Revolutionizing fashion e-commerce with real-time computer vision garment fitting.*
 
----
+- 🔮 Pose estimation & virtual garment transfer algorithms
+- 🎯 Eliminates sizing uncertainty & cuts return rates
+- 🛠️ Built with **Python, OpenCV, PyTorch, Deep Learning, React**
 
-## 🛠️ Tech Arsenal
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In_Active_R%26D-FFA500?style=for-the-badge&logo=git&logoColor=white" alt="WIP"/>
+  &nbsp;
+  <a href="https://github.com/vishusharma2"><img src="https://img.shields.io/badge/Preview-Coming_Soon-00F5FF?style=for-the-badge&logo=github&logoColor=white" alt="Preview"/></a>
+</p>
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-### 🧑‍💻 Languages
-<img src="https://skillicons.dev/icons?i=js,python,java,ts,html,css&theme=dark" />
+### 💻 CodeView with AI — Collaborative IDE
+> *A Replit-inspired browser workspace with multi-user pairing, WebRTC video, and AI.*
 
-### ⚡ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,vite,fastapi&theme=dark" />
+- 🔄 Real-time multi-cursor editing & syntax highlighting
+- 📹 High-definition peer-to-peer WebRTC video conferencing
+- 🤖 Integrated AI assistant for live debugging & code synthesis
 
-### 🧠 AI / ML & Deep Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<p align="center">
+  <a href="https://github.com/vishusharma2/CodeView-with-AI">
+    <img src="https://img.shields.io/badge/Repository-CodeView_with_AI-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+  </a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Nova AI — Intelligent Assistant
+> *Conversational AI agent and automation bot engineered for modern developer workflows.*
+
+- 💬 Intelligent NLP response generation & task automation
+- ⚡ Modular architecture with low-latency API handling
+- 🛠️ Built with **JavaScript, Node.js, AI / LLM APIs**
+
+<p align="center">
+  <a href="https://github.com/vishusharma2/Nova-Ai">
+    <img src="https://img.shields.io/badge/Repository-Nova--Ai-00F5FF?style=for-the-badge&logo=github&logoColor=white" alt="Nova AI Repo"/>
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏡 Airbnb Full-Stack Platform
+> *Production-grade rental accommodation platform engineered with complete MVC architecture.*
+
+- 🔐 Secure user authentication, session control & reviews
+- 🗺️ Dynamic geospatial listings & interactive maps
+- 🛠️ Built with **Node.js, Express, MongoDB, EJS, Bootstrap**
+
+<p align="center">
+  <a href="https://github.com/vishusharma2/Airbnb-full-version">
+    <img src="https://img.shields.io/badge/Repository-Airbnb--Full--Version-FF0080?style=for-the-badge&logo=github&logoColor=white" alt="Airbnb Repo"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
 <br/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis&theme=dark" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,docker,linux&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-
-### 🎨 Design & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
+<!-- Interactive Repo Pin Cards -->
 <a href="https://github.com/vishusharma2/CodeView-with-AI">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vishusharma2&repo=CodeView-with-AI&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117" />
 </a>
+&nbsp;
+<a href="https://github.com/vishusharma2/Airbnb-full-version">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vishusharma2&repo=Airbnb-full-version&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117" />
+</a>
 
-<br/><br/>
+</div>
 
-<table>
-<tr>
-<td width="500" align="center">
-<h3>👗 WearVerse — Virtual Try-On AI</h3>
-<p><em>AI-powered virtual try-on experience for e-commerce using computer vision & deep learning</em></p>
+---
+
+<!-- ============================================================ -->
+<!-- 🛠️ TECH ARSENAL & WEAPONRY                                   -->
+<!-- ============================================================ -->
+## 🛠️ Tech Arsenal & Weaponry
+
+<div align="center">
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,c,cpp&theme=dark" alt="Languages"/>
+</p>
+
+### ⚡ Frontend & Web Architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite,html,css&theme=dark" alt="Frontend"/>
+</p>
+
+### 🧠 AI, Machine Learning & Computer Vision
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI & ML Frameworks"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+</p>
+
+### ⚙️ Backend & Real-Time Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+</p>
+
+### 🗄️ Databases & Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite&theme=dark" alt="Databases"/>
+</p>
+
+### ☁️ Cloud, DevOps & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,vercel,netlify&theme=dark" alt="Cloud & DevOps"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+### 🎨 Developer Tools & Workspace
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Adobe_Creative-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
+</p>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!-- 🏅 VERIFIED CERTIFICATIONS & ACCREDITATIONS                  -->
+<!-- ============================================================ -->
+## 🏅 Verified Certifications & Accreditations
+
+<div align="center">
+
+| Credential | Issuer | Competency Highlights |
+| :--- | :--- | :--- |
+| **AWS Cloud Services — S3** | Amazon Web Services | Cloud Object Storage, Bucket Policies, Lifecycle Management, Encryption |
+| **Google Cloud Challenge Labs** | Google Cloud | Cloud Infrastructure, IAM, Compute Engine, GCP Networking |
+| **Meta Frontend Development** | Meta | React, Advanced JavaScript, UI/UX Principles, State Architecture |
+
 <br/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta"/>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!-- 📊 GITHUB TELEMETRY & ANALYTICS                              -->
+<!-- ============================================================ -->
+## 📊 GitHub Telemetry & Real-Time Analytics
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishusharma2&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://streak-stats.demolab.com/?user=vishusharma2&theme=radical&hide_border=true&border_radius=15&background=0d1117&ring=00F5FF&fire=FF0080&currStreakLabel=00F5FF" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishusharma2&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF&layout=donut-vertical&langs_count=8" alt="Top Languages"/>
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishusharma2&theme=radical" alt="Profile Summary Details"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!-- 🏆 GITHUB TROPHIES                                           -->
+<!-- ============================================================ -->
+## 🏆 Achievements & GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=vishusharma2&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!-- 🎧 DEVELOPER PULSE & VIBES                                   -->
+<!-- ============================================================ -->
+## 🎧 Developer Pulse & Daily Motivation
+
+<div align="center">
+
+<!-- Dev Quote Widget -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/🚧_Status-Work_In_Progress-FFA500?style=for-the-badge" alt="WIP"/>
-<br/><br/>
-<a href="https://github.com/vishusharma2/WearVerse"><img src="https://img.shields.io/badge/View_Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+
+<!-- Interactive Audio/Focus Mockup -->
+<table width="650">
+<tr>
+<td align="center" bgcolor="#161b22">
+  <p><b>🎧 Current Flow State:</b> <i>Synthwave Chill & Lo-Fi Beats for Deep Focus</i></p>
+  <code>▶ 🔘──────────────────────── 04:20 / ∞ : ∞ : ∞  🔊 [||||||||||] 100%</code>
+  <p><i>"First, solve the problem. Then, write the code." — John Johnson</i></p>
 </td>
 </tr>
 </table>
@@ -155,58 +352,87 @@
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ============================================================ -->
+<!-- 🌟 RECRUITER & COLLABORATOR DEEP DIVE ACCORDION              -->
+<!-- ============================================================ -->
+## 📂 Expandable Dossier // Deep Dive
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishusharma2&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=6C63FF&title_color=6C63FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
-&nbsp;
-<img width="49%" src="https://streak-stats.demolab.com/?user=vishusharma2&theme=radical&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6347&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishusharma2&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6C63FF&text_color=FFFFFF&layout=donut-vertical&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=vishusharma2&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishusharma2&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6347&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
-
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote"/>
-
-</div>
-
-
-
-<div align="center">
-
-### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
+<details>
+<summary><b>🔍 Click to view Core Competencies, Academic Foundations & Why Pair With Vishu</b></summary>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+### 🎯 Core Engineering Competencies
+- **Architecture**: Microservices, Event-Driven Patterns, RESTful API Design, MVC, WebSockets & WebRTC Peer-to-Peer
+- **Computer Science Fundamentals**: Data Structures & Algorithms, Object-Oriented Programming (OOP), OS Internals, DBMS
+- **AI & Computer Vision**: Image Segmentation, Feature Extraction, Neural Network Architectures, Pose Estimation
+- **DevOps & CI/CD**: Containerization (Docker), Automated Workflows (GitHub Actions), Cloud Deployments (AWS/GCP/Vercel)
+
+### 🌟 Why Collaborate With Me?
+1. **End-to-End Ownership**: From database schema and AI model training to polished pixel-perfect UIs, I own features completely.
+2. **Relentless Problem Solving**: I enjoy breaking down ambiguous, difficult challenges into elegant, clean solutions.
+3. **Community-Driven**: Active participation in Google Developer Groups (GDG) and an eagerness to share knowledge and contribute to open source.
+
+</details>
+
+---
+
+<!-- ============================================================ -->
+<!-- 🤝 CONNECT & COLLABORATE MATRIX                              -->
+<!-- ============================================================ -->
+## 🤝 Connect & Collaborate
+
+<p align="center">
+  <em>Whether you want to discuss AI breakthroughs, collaborate on open-source, or discuss new opportunities — my inbox is always open!</em>
+</p>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/vis-sha" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/vishusharma2" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:vishu.sharma90861@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://x.com/VishuSh18399441" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+&nbsp;
+<a href="https://discord.gg/vishusharma_" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/_vishu_sharma___" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br/><br/>
+
+<a href="mailto:vishu.sharma90861@gmail.com">
+  <img src="https://img.shields.io/badge/💬_Get_In_Touch-Let's_Build_Something_Awesome-00F5FF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0d1117" alt="Get in Touch"/>
+</a>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!-- 🌌 FOOTER WAVE                                               -->
+<!-- ============================================================ -->
+<div align="center">
+
+<p>
+  <b>Designed with ❤️ & crafted for performance by Vishu Sharma</b>
+  <br/>
+  <i>Crafting software that makes a difference.</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F5FF,25:7928CA,75:FF0080,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
 
 </div>
