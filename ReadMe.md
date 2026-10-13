@@ -16,7 +16,7 @@
 <!-- 📡 LIVE TELEMETRY & STATUS PILLS                             -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishusharma2&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=vishusharma2.vishusharma2&label=Profile%20Views&labelColor=1a1b27&countColor=6C63FF&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <a href="https://github.com/vishusharma2?tab=followers">
     <img src="https://img.shields.io/github/followers/vishusharma2?label=Followers&style=for-the-badge&color=00F5FF&labelColor=0d1117" alt="Followers"/>
