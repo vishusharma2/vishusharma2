@@ -3,11 +3,11 @@
 <!-- ============================================================ -->
 <!-- 🌌 HERO BANNER & HEADER                                      -->
 <!-- ============================================================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F5FF,25:7928CA,75:FF0080,100:0d1117&height=240&section=header&text=Vishu%20Sharma&fontSize=70&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=%E2%9A%A1%20Full-Stack%20Architect%20%C2%B7%20AI/ML%20Engineer%20%C2%B7%20Creative%20Technologist%20%E2%9A%A1&descAlignY=58&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,6&height=220&section=header&text=Vishu%20Sharma&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20Creative%20Technologist&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Dynamic Animated Typing SVG -->
 <a href="https://github.com/vishusharma2">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=750&lines=🚀+Full-Stack+Architect+%7C+MERN+%26+Next.js+Specialist;🧠+AI+%26+Deep+Learning+Explorer+%7C+Computer+Vision;💻+Creator+of+WearVerse+AI+%26+CodeView+Live+IDE;⚡+Real-Time+Systems+%26+WebRTC+Enthusiast;🌐+Google+Developer+Groups+(GDG)+Member;☕+Turning+Complex+Logic+into+Elegant+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Architect+%7C+MERN+%26+Next.js+Specialist;AI+%26+Deep+Learning+Explorer+%7C+Computer+Vision;Creator+of+WearVerse+AI+%26+CodeView+Live+IDE;Real-Time+Systems+%26+WebRTC+Enthusiast;Google+Developer+Groups+(GDG)+Member;Architecting+Scalable%2C+Elegant+Software" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -16,7 +16,7 @@
 <!-- 📡 LIVE TELEMETRY & STATUS PILLS                             -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishusharma2&label=Profile%20Views&color=7928CA&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vishusharma2&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <a href="https://github.com/vishusharma2?tab=followers">
     <img src="https://img.shields.io/github/followers/vishusharma2?label=Followers&style=for-the-badge&color=00F5FF&labelColor=0d1117" alt="Followers"/>
@@ -174,11 +174,11 @@ Hey there! 👋 I am **Vishu Sharma**, a software engineer and creator passionat
 
 <!-- Interactive Repo Pin Cards -->
 <a href="https://github.com/vishusharma2/CodeView-with-AI">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vishusharma2&repo=CodeView-with-AI&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishusharma2&repo=CodeView-with-AI&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117" />
 </a>
 &nbsp;
 <a href="https://github.com/vishusharma2/Airbnb-full-version">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vishusharma2&repo=Airbnb-full-version&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishusharma2&repo=Airbnb-full-version&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117" />
 </a>
 
 </div>
@@ -289,7 +289,7 @@ Hey there! 👋 I am **Vishu Sharma**, a software engineer and creator passionat
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishusharma2&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=vishusharma2&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
     </td>
     <td align="center" width="50%">
       <img width="100%" src="https://streak-stats.demolab.com/?user=vishusharma2&theme=radical&hide_border=true&border_radius=15&background=0d1117&ring=00F5FF&fire=FF0080&currStreakLabel=00F5FF" alt="GitHub Streak"/>
@@ -302,7 +302,7 @@ Hey there! 👋 I am **Vishu Sharma**, a software engineer and creator passionat
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishusharma2&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF&layout=donut-vertical&langs_count=8" alt="Top Languages"/>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishusharma2&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF&layout=donut-vertical&langs_count=8" alt="Top Languages"/>
     </td>
     <td align="center" width="50%">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishusharma2&theme=radical" alt="Profile Summary Details"/>
@@ -433,6 +433,6 @@ Hey there! 👋 I am **Vishu Sharma**, a software engineer and creator passionat
   <i>Crafting software that makes a difference.</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F5FF,25:7928CA,75:FF0080,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,6&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
